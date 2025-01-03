@@ -1,0 +1,9 @@
+.homeContainer {
+    background-image: url('../assets/biryani.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; 
+    color: white; 
+    padding: 20px;
+  }
+  

@@ -1,0 +1,37 @@
+.centerit {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+.head1 {
+    color: aliceblue;
+    font-size: 70px;
+    -webkit-text-stroke: 1px black;
+    margin-bottom: 20px;  
+}
+
+.button1 {
+    height: 50px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 10px;  
+}
+
+button {
+    background-color: rgb(22, 22, 94);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(94, 158, 61);
+}
